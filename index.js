@@ -6,5 +6,5 @@ var args = process.argv,
   webServer = require('./server');
 //Inicialização do servidor
 webServer.listen(port, function () {
-  console.log('Server started at port ' + port);
+  console.log('Server started at porta ' + port);
 });
