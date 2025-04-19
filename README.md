@@ -10,5 +10,3 @@ You will need node js, nodemon, express, socket.io
 open the console in the application folder
 Just type: nodemon index.js
 access through port http://localhost:6969
-
-made by: José Emanuel Lopes Santos - 181090384
